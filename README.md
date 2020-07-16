@@ -1,5 +1,5 @@
 # MNIST-GAN
-So, what we are going to do is we are generating digit 9 using the MNIST-dataset , we will first extract all the digits 9 from the dataset and then we will train our model on it.
+So, what we are going to do is we are generating digits or we can generate a specific digit like i genearte 9 using the MNIST-dataset , for generating the digit 9 first we wil extract all the digits 9 from the dataset and then we will train our model on it.
 
 # What is GAN?
 
